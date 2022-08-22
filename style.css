@@ -194,6 +194,12 @@ a:hover {
     .container{
         margin-top: 50px;
     }
+    h1{
+        font-size: 30px; 
+    }
+    p{
+        font-size: 20px;
+    }
     a{
         font-size: 25px;
     }
@@ -201,7 +207,13 @@ a:hover {
 
 @media screen and (max-width: 489px){
     .container{
-        margin-top: 20px;
+        margin-top: 40px;
+    }
+    h1{
+        font-size: 30px; 
+    }
+    p{
+        font-size: 20px;
     }
     a{
         font-size: 20px;
