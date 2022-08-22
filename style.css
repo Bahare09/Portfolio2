@@ -188,3 +188,22 @@ a:hover {
     }
 
 }
+
+/* screens */
+@media screen and (max-width: 769px){
+    .container{
+        margin-top: 50px;
+    }
+    a{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 489px){
+    .container{
+        margin-top: 20px;
+    }
+    a{
+        font-size: 20px;
+    }
+}
