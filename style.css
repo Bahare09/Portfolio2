@@ -3,8 +3,8 @@
 
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-	background-size: 700% 700%;
-	animation: gradient 15s ease infinite;
+	background-size: 200% 100%;
+	animation: gradient 10s ease infinite;
     max-width: 100%;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -106,7 +106,7 @@ a{
 }
 
 .circles li:nth-child(1){
-    left: 5%;
+    left: 15%;
     width: 80px;
     height: 80px;
     animation-delay: 0s;
