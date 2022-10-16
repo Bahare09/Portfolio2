@@ -23,6 +23,11 @@ body {
 	}
 }
 
+#sound{
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
 .container{
     
     position: absolute;
