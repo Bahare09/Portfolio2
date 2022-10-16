@@ -13,7 +13,7 @@ function play() {
 
   } else {
     audio.pause();
-    audio.currentTime = 0;
+    // audio.currentTime = 0;
     sound.classList.remove("fa-pause");
     sound.classList.add("fa-music");
   }
